@@ -1,5 +1,5 @@
 # EasyImagePreviewer
-make image preview in iOS super Easy.
+##make image preview in iOS super Easy.
 
 #  一个极简使用的独立图片预览组件（仅依赖sdwebimage）；支持多种类型的数据源传递。
 #  希望可以给大家带来一个容易理解、容易使用的预览组件，大家如果有需要也可以在此基础上进行修改和二次开发。
